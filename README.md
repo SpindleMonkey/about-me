@@ -1,41 +1,34 @@
 # About Me
 
 ## Before GA:
-I was working at a web agency called BlueModus as a UX Lead.
+I was working at Charter as a senior software test engineer. Before that, I was a senior software engineer writing code for embedded systems.
 
 ## Outcomes support I need:
-None - I will be providing it (with Becca)
+Definitely help with my resume so it reflects my experience/what I can do; also networking and interviewing because I really am not good dealing with strangers.
 
 ## Day 1 Goals:
-1. Make 17 new developers
+1. Project goal: build a database-backed app that emails/text alerts on customizable conditions 
+2. General goal: identify what would make me the happiest yet strongest developer (front? back? both? what??!)
 
 ## Two Truths and a Lie
-
-### Nick
-1. I have two cats named Gin and Tonic
-2. My last vacation was to the West Bank
-3. I bike 30 miles to get here each day
-
-### Becca
-1. I once ate 8 lobsters in one sitting.
-2. I skipped college graduation and booked a one way flight to Paris.
-3. I donated my eggs and have a child in Europe that I've never met.
+1. We had to turn our microprocessor class homework in on paper tape.
+2. I've been to Norway 4 times.
+3. A bear once sat on the deck outside my kitchen window, eating the birdseed from the feeder.
 
 ## My LinkedIn
-[Here!](https://www.linkedin.com/in/nickandersonr)
+[Here!](https://www.linkedin.com/in/connie-kephart-069ba9126/)
 
 ## Meetups I've attended:
-1. Denver Script (6/7)
-2. Denver Script (6/27)
+1. 
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
-I like the idea of working for startup or small business. I think I could thrive in an agency role. It's important to me that my work have a visible impact on the company I'm working for. I also want to be able to wear metal tshirts to work.
+I want to work for a smaller company creating products or a startup. I want to know who I work with; working for big corporations leaves you feeling like a nameless resource.
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
-I like frontend and UX work, so something with a combined dev/design role would be perfect. I also like talking to people, and would feel confident leading projects from a manamagent role. 
+Not really qualified to answer that yet! I want desperately to be good at CSS, but that's coming a little more painfully than I expected. I'm definitely a code girl, so backend is probably the obvious spot for me, but I like the immediate visual response from HTML/CSS.
 
 ## Link to my resume: 
-[Here!](NickAnderson_Resume.pdf)
+[Here!](ConnieKephart_Resume.pdf)
 
 ## Link to my portfolio website: 
-[NickAnderson.rocks](http://NickAnderson.rocks)
+[ConstantlyKephart.com](http://ConstantlyKephart.com)
