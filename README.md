@@ -1,7 +1,7 @@
 # About Me
 
 ## Before GA:
-I was working at Charter as a senior software test engineer. Before that, I was a senior software engineer writing code for embedded systems.
+I was working at Charter/Time Warner Cable as a senior software test engineer. Before that, I was a senior software engineer writing code for embedded systems.
 
 ## Outcomes support I need:
 Definitely help with my resume so it reflects my experience/what I can do; also networking and interviewing because I really am not good dealing with strangers.
@@ -16,7 +16,7 @@ Definitely help with my resume so it reflects my experience/what I can do; also 
 3. A bear once sat on the deck outside my kitchen window, eating the birdseed from the feeder.
 
 ## My LinkedIn
-[Here!](https://www.linkedin.com/in/connie-kephart-069ba9126/)
+[Here!](https://www.linkedin.com/in/connie-kephart/)
 
 ## Meetups I've attended:
 1. 
@@ -32,3 +32,25 @@ Not really qualified to answer that yet! I want desperately to be good at CSS, b
 
 ## Link to my portfolio website: 
 [ConstantlyKephart.com](http://ConstantlyKephart.com)
+
+## Personal Branding Statement
+30 second elevator pitch that answers the ages-old request "Tell me about yourself." 
+_Use for resume summary statement_
+
+## My Story
+An expanded version of my personal branding statement, shared at networking events and interviews
+_Use for summary statement on LinkedIn and other social accounts_
+
+Who are you? What basic facts should people know? How do others describe you?
+
+What makes you awesome? What are your unique strengths? What value do you bring to teams and companies?
+
+Where are you trying to go? What are you asking for? How do you plan to get it?
+
+## Self-Reflection
+* Core Values - what are your fundamental beliefs and guiding principles?
+* Passions - what motivates and intrigues you?
+* Vision - what does your ideal career look like?
+* Strengths - what are your best characteristics and skills?
+* Uniqueness - what sets you apart?
+
