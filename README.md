@@ -1,7 +1,7 @@
 # About Me
 
 ## Before GA:
-I was  at Charter/Time Warner Cable for the past 11 years as a senior software test engineer. Before that, I was a senior software engineer writing code for embedded systems.
+I was at Charter/Time Warner Cable for the past 11 years as a senior software test engineer. Before that, I was a senior software engineer writing code for embedded systems.
 
 ## Outcomes support I need:
 Definitely help with my resume so it reflects my experience/what I can do; also networking and interviewing because I really am not good dealing with strangers.
@@ -19,10 +19,11 @@ Definitely help with my resume so it reflects my experience/what I can do; also 
 [Here!](https://www.linkedin.com/in/connie-kephart/)
 
 ## Meetups I've attended:
-1. 
+1. DenverScript 7/25
+2. Women Who Code 8/10
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
-I want to work for a smaller company creating products or a startup (again, creating a product). I want to know who I work with; working for big corporations leaves you feeling like a nameless resource. I also want the time to make a product great in terms of usability and functionality. I want to make apps people like to use and want to use.
+I want to work for a smaller company creating products or a startup (again, creating a product). I want to know who I work with; working for big corporations leaves me feeling like a nameless resource. I also want the time to make a product great in terms of usability and functionality. I want to make apps people like to use and want to use.
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
 Not really qualified to answer that yet! I want desperately to be good at CSS, but that's coming a little more painfully than I expected. I'm definitely a code girl, so backend is probably the obvious spot for me, but I like the immediate visual response from HTML/CSS.
@@ -31,7 +32,7 @@ Not really qualified to answer that yet! I want desperately to be good at CSS, b
 [Here!](ConnieKephart_Resume.pdf)
 
 ## Link to my portfolio website: 
-[ConstantlyKephart.com](http://ConstantlyKephart.com)
+[www.ConstantlyKephart.com](http://www.ConstantlyKephart.com)
 
 ## Personal Branding Statement
 30 second elevator pitch that answers the ages-old request "Tell me about yourself." 
