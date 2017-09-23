@@ -80,3 +80,8 @@ Where are you trying to go? What are you asking for? How do you plan to get it?
 *** I have a background in embedded systems which means I think about memory usage and efficiency. 
 *** I also have a SW test background so I know what test wants from dev and from the product
 
+
+
+PTARs
+* trying to seed a many-to-many SQL database (postgreSQL); tutorials are pretty much non-existant, question/answers on stackoverflow are minimal; Sequelize documentation is actually there, but I had so little experience it took me 9 or 10 read throughs to finally get a handle on how to get the job done
+
