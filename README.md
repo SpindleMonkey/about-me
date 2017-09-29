@@ -83,5 +83,5 @@ Where are you trying to go? What are you asking for? How do you plan to get it?
 
 
 PTARs
-* trying to seed a many-to-many SQL database (postgreSQL); tutorials are pretty much non-existant, question/answers on stackoverflow are minimal; Sequelize documentation is actually there, but I had so little experience it took me 9 or 10 read throughs to finally get a handle on how to get the job done
+* trying to seed a many-to-many SQL database (postgreSQL); tutorials are pretty much non-existant, question/answers on stackoverflow are minimal; Sequelize documentation is actually there, but I had so little experience it took me 9 or 10 read throughs to finally get a handle on how to get the job done.
 

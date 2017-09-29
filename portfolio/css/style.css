@@ -1,0 +1,118 @@
+
+/*
+  <i class="large material-icons">link</i>
+  <span id="f1">constantly</span><span id="f8">kephart</span><span id="f1">.com</span>
+
+  <i class="devicon-javascript-plain"></i> <i class="devicon-jquery-plain-wordmark"></i> <i class="devicon-react-original-wordmark"></i> <i class="devicon-express-original-wordmark"></i> <i class="devicon-mongodb-plain-wordmark"></i> <i class="devicon-postgresql-plain-wordmark"></i> <i class="devicon-html5-plain-wordmark"></i> <i class="devicon-css3-plain-wordmark"></i>
+*/
+
+body {
+  font-family: 'Fira Mono', monospace;
+  color: #000;
+}
+
+h1 {
+  font-size: 5em;
+  font-family: 'Fira Mono', monospace;
+  margin: 0;
+  padding: 0;
+}
+
+a, a:hover, a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+p {
+  font-size: 1.2em;
+  padding: 0 50px;
+}
+
+#f1 {
+  font: 36px 'Fira Mono',monospace;
+}
+
+#f8 {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.section{
+  text-align: center;
+}
+
+#section0{
+  background: -webkit-gradient(linear, top left, bottom left, from(#f9fbe7), to(#e6ee9c));
+  background: -webkit-linear-gradient(#f9fbe7, #e6ee9c);
+  background: linear-gradient(#f9fbe7, #e6ee9c);
+}
+
+#section1{
+  background: -webkit-gradient(linear, top left, bottom left, from(#e6ee9c), to(#d4e157));
+  background: -webkit-linear-gradient(#e6ee9c, #d4e157);
+  background: linear-gradient(#e6ee9c, #d4e157);
+}
+
+#section2{
+  background: -webkit-gradient(linear, top left, bottom left, from(#d4e157), to(#c0ca33 ));
+  background: -webkit-linear-gradient(#d4e157, #c0ca33 );
+  background: linear-gradient(#d4e157, #c0ca33 );
+}
+
+#section3{
+  background: -webkit-gradient(linear, top left, bottom left, from(#c0ca33), to(#9e9d24));
+  background: -webkit-linear-gradient(#c0ca33, #9e9d24);
+  background: linear-gradient(#c0ca33,#9e9d24);
+}
+
+#section4{
+  background: -webkit-gradient(linear, top left, bottom left, from(#9e9d24), to(#827717));
+  background: -webkit-linear-gradient(#9e9d24, #827717);
+  background: linear-gradient(#9e9d24,#827717);
+}
+
+.frame {
+  position: relative;
+  float: left;
+  width: 25%;
+  margin: 0 40px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #827717;
+}
+
+.frame:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font: 20px 'Fira Mono',monospace;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+
+.icons {
+  font-size: 2.3em;
+}
+
+#fp-nav ul li .fp-tooltip {
+  color: #000;
+}
