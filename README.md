@@ -22,6 +22,7 @@ Definitely help with my resume so it reflects my experience/what I can do; also 
 1. DenverScript 7/25
 2. Women Who Code 8/10
 3. DenverScript 8/22
+4. Bootcampers Collective JS Study Group 10/16
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
 I want to work for a smaller company creating products or a startup (again, creating a product). I want to know who I work with; working for big corporations leaves me feeling like a nameless resource. I also want the time to make a product great in terms of usability and functionality. I want to make apps people like to use and want to use.
